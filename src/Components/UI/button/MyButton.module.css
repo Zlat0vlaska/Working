@@ -1,0 +1,23 @@
+.myBtn {
+    padding: 5px 15px;
+    color:  #1e78ed;
+    font-size:  14px;
+    background: transparent;
+    border: 1px solid #1e78ed;
+    cursor: pointer;
+}
+
+button:hover {
+    color: #115cbf; /* Цвет рамки при наведении */
+   }
+
+.userBtn {
+    padding: 5px 15px;
+    color:  #313236;;
+    font-size:  18px;
+    
+    background: transparent;
+    border: 1px solid transparent;
+    cursor: pointer;
+    transition: 0.1s;
+}
